@@ -1,3 +1,5 @@
+//Link da explicação do desafio (https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos-lab)
+
 enum class Nivel { BASICO, INTERMEDIARIO, AVANCADO }
 
 data class Usuario(val nome: String, val email: String, val idade: Int) {
